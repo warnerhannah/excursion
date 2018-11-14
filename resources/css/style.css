@@ -1,8 +1,8 @@
 
-body {
+html {
   background-color: Black;
-  font-family: Veranda;
   text-align: center;
+  font-family: Verdana;
 }
 h1 {
   font-weight: normal;
